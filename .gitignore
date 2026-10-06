@@ -1,0 +1,28 @@
+## [Visual Studio / .NET]
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## [Build / Test results]
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+
+## [Docker]
+.docker/
+
+## [OS specific]
+.DS_Store
+Thumbs.db
+desktop.ini
+BenchmarkDotNet.Artifacts/
